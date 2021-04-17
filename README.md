@@ -16,10 +16,9 @@ JSON file with tweets includes retweet count and favorite count. Using the tweet
 
 You need an installation of Python, plus the following libraries:
 
-numpy
-pandas
-matplotlib.pyplot
-seaborn
+import pandas as pd 
+import numpy as np 
+import matplotlib.pyplot as plt
 
 ## Assessing Data for this Project
 
@@ -32,4 +31,7 @@ Storing, Analyzing, and Visualizing Data for this Project
 Store the clean DataFrame(s) in a CSV file with the main one named twitter_archive_master.csv. If additional files exist because multiple tables are required for tidiness, name these files appropriately. Additionally, you may store the cleaned data in a SQLite database (which is to be submitted as well if you do).
 
 Analyze and visualize your wrangled data in your wrangle_act.ipynb Jupyter Notebook. At least three (3) insights and one (1) visualization must be produced.
+
+
+
 
