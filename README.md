@@ -32,6 +32,8 @@ Store the clean DataFrame(s) in a CSV file with the main one named twitter_archi
 
 Analyze and visualize your wrangled data in your wrangle_act.ipynb Jupyter Notebook. At least three (3) insights and one (1) visualization must be produced.
 
+## Insights 
 
+This project have found out that Twitter account called WeRateDogs have interesting rating system and have identifies the modt popular dog stages. 
 
 
