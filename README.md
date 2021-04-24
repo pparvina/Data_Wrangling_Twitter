@@ -37,3 +37,4 @@ Analyze and visualize your wrangled data in your wrangle_act.ipynb Jupyter Noteb
 This project have found out that Twitter account called WeRateDogs have interesting rating system and have identifies the modt popular dog stages. 
 
 
+## Conclusion 
