@@ -38,3 +38,5 @@ This project have found out that Twitter account called WeRateDogs have interest
 
 
 ## Conclusion 
+
+Interesting conclusions can be made from our data anlysis: 
