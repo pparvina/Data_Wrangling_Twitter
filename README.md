@@ -36,6 +36,6 @@ Analyze and visualize your wrangled data in your wrangle_act.ipynb Jupyter Noteb
 
 This project have found out that Twitter account called WeRateDogs have interesting rating system and have identifies following key findings:
 
-• From above results, we can see that Pupper is the most popular amoung other dog stages.
-• Looks like the average rating for each dog stages above is 12, and the most popular dog stage by rating is Doggo Puppo that received 13.
-• Doggo, Puppo and Puppo are the most favorite dog stages, which have a significant number of favorite counts in comparison with other dog stages.
+•From above results, we can see that Pupper is the most popular amoung other dog stages.
+•Looks like the average rating for each dog stages above is 12, and the most popular dog stage by rating is Doggo Puppo that received 13.
+•Doggo, Puppo and Puppo are the most favorite dog stages, which have a significant number of favorite counts in comparison with other dog stages.
