@@ -6,11 +6,11 @@ As a part of Udacity's Data Ananlyst Nanodegree program, I had to wrangle WeRate
 
 ### Data
 
-The WeRateDogs Twitter archive contains basic tweet data for all 5000+ of their tweets, but not everything. One column the archive does contain though: each tweet's text, which I used to extract rating, dog name, and dog "stage" (i.e. doggo, floofer, pupper, and puppo) to make this Twitter archive "enhanced."
+1. The WeRateDogs Twitter archive contains basic tweet data for all 5000+ of their tweets, but not everything. One column the archive does contain though: each tweet's text, which I used to extract rating, dog name, and dog "stage" (i.e. doggo, floofer, pupper, and puppo) to make this Twitter archive "enhanced."
 
-Image Predictions file a table full of image predictions (the top three only) using neural networks alongside each tweet ID, image URL, and the image number that corresponded to the most confident prediction (numbered 1 to 4 since tweets can have up to four images).
+2. Image Predictions file a table full of image predictions (the top three only) using neural networks alongside each tweet ID, image URL, and the image number that corresponded to the most confident prediction (numbered 1 to 4 since tweets can have up to four images).
 
-JSON file with tweets includes retweet count and favorite count. Using the tweet IDs in the WeRateDogs Twitter archive, I queried the Twitter API for each tweet's JSON data using Python's Tweepy library and stored each tweet's entire set of JSON data in a file called tweet_json.txt file.
+3. JSON file with tweets includes retweet count and favorite count. Using the tweet IDs in the WeRateDogs Twitter archive, I queried the Twitter API for each tweet's JSON data using Python's Tweepy library and stored each tweet's entire set of JSON data in a file called tweet_json.txt file.
 
 ## Getting started
 
@@ -34,9 +34,8 @@ Analyze and visualize your wrangled data in your wrangle_act.ipynb Jupyter Noteb
 
 ## Insights 
 
-This project have found out that Twitter account called WeRateDogs have interesting rating system and have identifies the modt popular dog stages. 
+This project have found out that Twitter account called WeRateDogs have interesting rating system and have identifies following key findings:
 
-
-## Conclusion 
-
-Interesting conclusions can be made from our data anlysis: 
+• From above results, we can see that Pupper is the most popular amoung other dog stages.
+• Looks like the average rating for each dog stages above is 12, and the most popular dog stage by rating is Doggo Puppo that received 13.
+• Doggo, Puppo and Puppo are the most favorite dog stages, which have a significant number of favorite counts in comparison with other dog stages.
