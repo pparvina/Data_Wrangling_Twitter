@@ -16,9 +16,9 @@ As a part of Udacity's Data Ananlyst Nanodegree program, I had to wrangle WeRate
 
 You need an installation of Python, plus the following libraries:
 
-import pandas as pd 
-import numpy as np 
-import matplotlib.pyplot as plt
+- import pandas as pd 
+- import numpy as np 
+- import matplotlib.pyplot as plt
 
 ## Assessing Data for this Project
 
